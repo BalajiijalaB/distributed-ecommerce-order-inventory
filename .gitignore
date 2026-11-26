@@ -1,0 +1,18 @@
+# IDE
+.vscode/
+
+# Java
+*.class
+target/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
